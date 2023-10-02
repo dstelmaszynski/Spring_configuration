@@ -1,4 +1,4 @@
-package pl.zajavka;
+package pl.zajavka.springConfigJavaClass;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

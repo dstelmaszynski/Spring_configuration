@@ -1,4 +1,4 @@
-package pl.zajavka;
+package pl.zajavka.springConfigByAnnotations.code;
 
 import lombok.Data;
 

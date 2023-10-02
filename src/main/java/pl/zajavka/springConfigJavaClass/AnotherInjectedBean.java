@@ -1,4 +1,4 @@
-package pl.zajavka;
+package pl.zajavka.springConfigJavaClass;
 
 public class AnotherInjectedBean {
     public AnotherInjectedBean(){
