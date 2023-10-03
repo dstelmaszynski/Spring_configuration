@@ -2,7 +2,6 @@ package pl.zajavka.springConfigByAnnotations.configuration;
 
 import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
-import pl.zajavka.springConfigByAnnotations.code.Marker;
 
 @Configuration
 @ComponentScan(basePackages = "pl.zajavka.springConfigByAnnotations.code") //adnotacja do wskazywania, gdzie Beany maja byc wyszukiwane
